@@ -15,7 +15,7 @@ Simular el movimiento, giros, detección de líneas, colisiones y estrategias de
 ##  Estructura del proyecto
 
 - `simulacion/`: Código principal de simulación (basado en sensores reales).
-- `documentacion/`: Propuesta del proyecto y entregables en LaTeX/PDF.
+- `documentacion/`: Propuesta del proyecto y entregables en PDF.
 - `datos/`: Archivos CSV con datos obtenidos por sensores reales.
 - `videos/`: Pruebas reales grabadas del Sumobot en acción.
 - `imagenes/`: Capturas de pantalla, esquemas y diagramas.
@@ -37,6 +37,5 @@ Se documentarán pruebas reales en video para comparar el comportamiento físico
 - Python
 - CircuitPython (Sumobot)
 - LaTeX (Overleaf)
-- GitHub Pages (opcional para documentación visual)
 
 
